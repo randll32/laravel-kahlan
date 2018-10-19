@@ -19,6 +19,5 @@
         "psr-4": {
             "Sofa\\LaravelKahlan\\": "src"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
